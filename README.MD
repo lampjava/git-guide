@@ -1,0 +1,7 @@
+# GIT GUDIDE PROJECT
+
+## ORIGIN
+
+## STAGE
+
+## WORK-PLACE
